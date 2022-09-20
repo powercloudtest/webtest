@@ -1,2 +1,2 @@
-image: carts
+image: keptnexamples/carts
 replicaCount: 1
